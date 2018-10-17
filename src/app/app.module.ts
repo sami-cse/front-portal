@@ -36,12 +36,11 @@ import { from } from 'rxjs';
     MyaccountComponent
   ],
   imports: [
+
     BrowserModule,
-    
     FormsModule,
     HttpModule,
     routing,
-
     BrowserAnimationsModule,
     MatButtonModule,
     MatToolbarModule,
@@ -55,6 +54,7 @@ import { from } from 'rxjs';
     MatIconModule,
     MatDialogModule
   ],
+  
   providers: [LoginService, UserService],
   bootstrap: [AppComponent]
 })
