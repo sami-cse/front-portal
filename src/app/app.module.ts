@@ -41,7 +41,10 @@ import { from } from 'rxjs';
     HttpModule,
     routing,
     BrowserAnimationsModule,
+<<<<<<< HEAD
     
+=======
+>>>>>>> fba9955515c5509e3574ff59de567fe9fe1307d4
     MatButtonModule,
     MatToolbarModule,
     MatGridListModule,
