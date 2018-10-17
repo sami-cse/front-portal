@@ -37,9 +37,11 @@ import { from } from 'rxjs';
   ],
   imports: [
     BrowserModule,
+    
     FormsModule,
     HttpModule,
     routing,
+
     BrowserAnimationsModule,
     MatButtonModule,
     MatToolbarModule,
